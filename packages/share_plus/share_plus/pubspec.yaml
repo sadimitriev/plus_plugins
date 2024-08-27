@@ -28,7 +28,7 @@ flutter:
         pluginClass: SharePlusWindowsPluginCApi
 
 dependencies:
-  cross_file: ^0.3.4+2
+  cross_file: any
   meta: ^1.8.0
   mime: ^1.0.4
   flutter:
