@@ -11,7 +11,7 @@ export 'package:share_plus_platform_interface/share_plus_platform_interface.dart
     show ShareResult, ShareResultStatus, XFile;
 
 export 'src/share_plus_linux.dart';
-export 'src/share_plus_windows.dart'
+export 'src/share_plus_windows.dart';
 
 /// Plugin for summoning a platform share sheet.
 class Share {
